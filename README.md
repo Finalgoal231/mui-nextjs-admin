@@ -8,7 +8,7 @@
 
 <h1 align="center">
    <a href="https://themeselection.com/item/materio-free-mui-nextjs-admin-template" target="_blank" align="center">
-      Materio - Free MUI NextJS Admin Template
+      Finalgoal - Free MUI NextJS Admin Dashboard
    </a>
 </h1>
 
@@ -22,9 +22,6 @@
    <a href="https://github.com/themeselection/materio-mui-nextjs-admin-template-free/releases">
     <img src="https://img.shields.io/github/release/themeselection/materio-mui-nextjs-admin-template-free.svg" alt="GitHub release">
   </a>
-   <a href="https://twitter.com/Theme_Selection" target="_blank">
-      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Theme_Selection">
-   </a>
 </p>
 
 <kbd>[![Materio - Free MUI NextJS Admin Template Demo Screenshot](https://cdn.themeselection.com/ts-assets/materio/materio-mui-nextjs-admin-template-free/marketing/materio-mui-nextjs-admin-template-free-github.png)](https://themeselection.com/item/materio-free-mui-nextjs-admin-template)</kbd>
@@ -231,11 +228,3 @@ If you want to [Download Free Admin Templates](https://themeselection.com/item/c
 * [Download Free Admin Templates](https://themeselection.com/item/category/free-admin-templates/)
 * [Bootstrap 5 CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
 
-## Social Media :earth_africa:
-
-- [Twitter](https://twitter.com/Theme_Selection)
-- [Facebook](https://www.facebook.com/ThemeSelections/)
-- [Pinterest](https://pinterest.com/themeselect/)
-- [Instagram](https://www.instagram.com/themeselection/)
-- [Discord](https://discord.gg/kBHkY7DekX)
-- [YouTube](https://www.youtube.com/channel/UCuryo5s0CW4aP83itLjIdZg)
